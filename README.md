@@ -3,8 +3,8 @@
                                                       Hi there, I'm Lala 👋
 
 
-- 🔭 I’m currently working on an REST-API for my Burger-Queen-API-client app.
-- 🌱 I’m currently learning express, mongoDB and docker
+- 🔭 I’m currently working on the README's in my Github from all the projects I've done.
+- 🌱 I’m currently learning more React!
 - 💬 Ask me about what I'm currently working...
 - ⚡ Fun fact: Love puzzles
 
