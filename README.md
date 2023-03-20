@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on the README's in my Github from all the projects I've done.
-- 🌱 I’m currently learning more React!
+- 🌱 I’m currently learning Next.js as React framework as recommended by React Team...
 - 💬 Ask me about what I'm currently working...
 - ⚡ Fun fact: Love puzzles
 
