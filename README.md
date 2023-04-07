@@ -30,6 +30,7 @@ Languages:
 
 🎨 Design:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 🧪 Testing:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -43,6 +44,7 @@ Languages:
 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/mariaabelardadiazaraque/"><img src=./Images/linkedin.png width=30px> </a>
+<a href="https://dev.to/laladiaz"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width=40px></a>
 
 
 
